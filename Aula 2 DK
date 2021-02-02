@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Aula 2</title>
+    </head>
+    <body>
+        <p>Olá <b>Mundo</b></p>
+        <p>Olá <u>Mundo</u></p>
+        <p>Olá <i>Mundo</i></p>
+        <span>Kleber</span>
+        <span>Luccas</span>
+    </body>
+    <!-- b = negrito, u = sublinhado e i = italico-->
+    <!--p quebra linha-->
+    <!--span nao quebra linha-->
+    </html>
