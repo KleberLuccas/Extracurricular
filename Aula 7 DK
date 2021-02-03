@@ -1,0 +1,14 @@
+<html>
+    <body>
+        <video controls width="600" >
+            <source src="video.mp4" type="video/mp4" />
+        </video>
+        <!-- Para colocar videos no site-->
+
+        <audio style="width:900px;" controls>
+            <source src="audio.ogg" type="audio/ogg" />
+        </audio>
+
+        <!-- Para colocar audios no site-->
+    </body>
+</html>
