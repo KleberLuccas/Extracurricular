@@ -13,16 +13,20 @@
 
 	<table width="900" align="" border="1" >
 		<!--Tamanho = 900 alinhamento = right, left ou center, borda = 1 tamanho-->
+		<thead>
 		<tr> 
-			<td>Nome</td>
-			<td>idade</td>
-			<td>Cargo</td> 
+			<th>Nome</th>
+			<th>idade</th>
+			<th>Cargo</th> 
 		</tr>
+		</thread>
+		<tbody>
 		<tr> <!--coluna -->
 			<td>Kleber</td>
 			<td>19</td>
 			<td>estudante</td> <!--linha-->
 		</tr> 
+		</tbody>
 	</table> -->
 
 	<form>
