@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Titulo aqui </title>
+</head>
+<body>
+
+	<div>
+		<h2>título do conteudo</h2>
+		<p>Conteudo</p>
+	</div>
+
+	<table width="900" align="" border="1" >
+		<!--Tamanho = 900 alinhamento = right, left ou center, borda = 1 tamanho-->
+		<tr> 
+			<td>Nome</td>
+			<td>idade</td>
+			<td>Cargo</td> 
+		</tr>
+		<tr> <!--coluna -->
+			<td>Kleber</td>
+			<td>19</td>
+			<td>estudante</td> <!--linha-->
+		</tr> 
+	</table> -->
+
+	<form>
+		<input type="password" name="">
+		<textarea></textarea>
+		<input type="button" name="enviar ">
+		<input type="submit" name="enviar">
+	</form>
+
+</body>
+</html>
